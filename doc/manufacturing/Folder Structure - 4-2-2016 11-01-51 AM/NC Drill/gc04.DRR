@@ -1,0 +1,28 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: gc04.PcbDoc   4/2/2016  11:01:38 AM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : gc04-RoundHoles.TXT
+ASCII SlotHoles File : gc04-SlotHoles.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        13mil (0.3302mm)         Round          136              15.55 Inch (394.98 mm)
+T2        15.75mil (0.40005mm)     Round          12               0.40 Inch (10.14 mm)
+T3        19.68mil (0.49987mm)     Slot           4                1.74 Inch (44.22 mm)
+T4        43.31mil (1.10007mm)     Round          6                1.31 Inch (33.38 mm)
+T5        44.09mil (1.11989mm)     Round          10               2.52 Inch (64.11 mm)
+T6        45mil (1.143mm)          Round          6                0.50 Inch (12.70 mm)
+T7        47.24mil (1.1999mm)      Round          8                1.77 Inch (44.91 mm)
+T8        52mil (1.3208mm)         Round          4                0.45 Inch (11.43 mm)
+T9        55mil (1.397mm)          Round          6                1.41 Inch (35.79 mm)
+T10       55.12mil (1.40005mm)     Round          4                0.63 Inch (16.08 mm)
+T11       62.99mil (1.59995mm)     Round          4                5.07 Inch (128.78 mm)
+T12       70.87mil (1.8001mm)      Round          6                0.83 Inch (21.00 mm)
+T13       25.59mil (0.64999mm)     Round          1         NPTH   0.00 Inch (0.00 mm)
+T14       25.59mil (0.64999mm)     Slot           1         NPTH   0.01 Inch (0.30 mm)
+---------------------------------------------------------------------------
+Totals                                            208              32.20 Inch (817.83 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

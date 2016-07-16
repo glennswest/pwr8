@@ -1,0 +1,67 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+J16        4P_PCB_TERM_BLOCK_HDR_RA   2543.918mil   4232.284mil   2411.417mil   4232.283mil   2411.418mil   4007.284mil  T        180.00 4P_TERM_BLOCK_RA_HEADER
+J7         45558-NP          2271.655mil   4779.526mil   2106.299mil   4862.205mil     2106.3mil   4862.204mil  B        180.00 0455580003     
+X1         USB_3.1           1200.788mil   4794.096mil   1200.787mil   4665.354mil    1092.52mil   4639.372mil  B          0.00 USB_3_1        
+U2         TMC2660           1929.134mil   4212.598mil   1929.134mil   4212.598mil   2086.614mil   4445.866mil  T        270.00 TMC2660        
+Q2         PSMN7R0-60YS      1299.212mil   3653.543mil   1299.213mil   3622.047mil   1374.212mil   3728.346mil  T        270.00 N-CH 60V       
+Q1         PSMN7R0-60YS      1732.284mil   3653.543mil   1732.284mil   3622.047mil   1807.284mil   3728.346mil  T        270.00 N-CH 60V       
+U3         SOP127P600-8N     1470.473mil    4183.07mil   1470.474mil    4183.07mil   1558.072mil   4221.456mil  B        180.00 LDO 3.3V       
+R13        RESC1005X40N      1077.999mil       4545mil       1078mil       4545mil   1058.314mil       4545mil  T        360.00 Thick Film     
+R12        RESC1005X40N      1077.001mil       4475mil       1077mil       4475mil   1057.316mil       4475mil  T        360.00 Thick Film     
+R11        RESC1005X40N      1230.314mil   4232.283mil   1230.315mil   4232.283mil   1230.314mil   4212.598mil  T         90.00 Thick Film     
+R10        RESC6332X70N      1535.434mil   4419.292mil   1535.433mil   4419.291mil   1535.434mil   4301.182mil  B         90.00 .075           
+R9         RESC3216X70N       1761.81mil   3877.954mil   1761.811mil   3877.953mil   1818.896mil   3877.954mil  T        180.00 .075           
+R8         RESC6332X70N       1722.44mil    4419.29mil   1722.441mil   4419.291mil    1722.44mil    4301.18mil  B         90.00 .075           
+R7         RESC3216X70N       1840.55mil   4606.301mil   1840.551mil   4606.299mil    1840.55mil   4549.214mil  T         90.00 .075           
+R6         RESC1005X40N      1240.159mil   3858.268mil   1240.158mil   3858.268mil   1220.474mil   3858.268mil  T        360.00 Thick Film     
+R5         RESC1005X40N      1240.159mil   3907.482mil   1240.158mil    3907.48mil   1220.474mil   3907.482mil  T        360.00 Thick Film     
+R4         RESC1005X40N      1240.157mil   3799.212mil   1240.158mil   3799.213mil   1259.842mil   3799.212mil  T        180.00 Thick Film     
+R3         RESC1005X40N      1614.173mil   3858.268mil   1614.173mil   3858.268mil   1633.858mil   3858.268mil  T        180.00 Thick Film     
+R2         RESC1005X40N      1545.274mil   3740.157mil   1545.276mil   3740.157mil   1545.274mil   3759.842mil  T        270.00 Thick Film     
+R1         RESC1005X40N      1545.274mil   3818.897mil   1545.276mil   3818.898mil   1545.274mil   3799.212mil  T         90.00 Thick Film     
+LD2        LED0603           1240.157mil   3976.378mil   1240.158mil   3976.378mil   1194.882mil   3976.378mil  T        360.00 RED            
+LD1        LED0603           1545.276mil   3622.048mil   1545.276mil   3622.047mil   1545.276mil   3667.324mil  T        270.00 RED            
+J15        77311-118-02LF    1072.834mil   4321.654mil   1072.835mil   4271.654mil   1072.834mil   4271.654mil  B         90.00 B2B-XH-A(LF)(SN)
+J14        B3B-XH-A(LF)(SN)   2027.559mil   3425.196mil   1929.134mil   3425.197mil   1929.134mil   3425.196mil  B          0.00 JST 3-PIN      
+J13        929400-01-36-RK   2047.244mil   3661.418mil   2047.244mil   3661.417mil   2147.244mil   3661.418mil  B        180.00 929400-01-36-RK
+J12        929400-01-36-RK   1624.018mil    4645.67mil   1624.016mil   4645.669mil   1524.018mil    4645.67mil  B        360.00 929400-01-36-RK
+J11        77311-118-02LF    2559.056mil   4026.378mil   2559.055mil   3976.378mil   2559.056mil   3976.378mil  B         90.00 B2B-XH-A(LF)(SN)
+J10        77311-118-02LF    2559.056mil   3750.788mil   2559.055mil   3700.787mil   2559.056mil   3700.788mil  B         90.00 B2B-XH-A(LF)(SN)
+J9         77311-118-02LF    2559.056mil   3475.196mil   2559.055mil   3425.197mil   2559.056mil   3425.196mil  B         90.00 B2B-XH-A(LF)(SN)
+J8         77311-118-02LF    2351.574mil   3425.196mil   2401.575mil   3425.197mil   2401.574mil   3425.196mil  B        180.00 B2B-XH-A(LF)(SN)
+J6         B3B-XH-A(LF)(SN)   2568.898mil   4330.709mil   2568.898mil   4232.283mil   2568.898mil   4232.284mil  B         90.00 JST 3-PIN      
+J5         B4B-PH-K-S(LF)(SN)   1112.204mil   3895.276mil   1112.205mil   4045.276mil   1112.204mil   4045.276mil  B        270.00 B4B-PH-K-S(LF)(SN)
+J4         B4B-PH-K-S(LF)(SN)   1665.748mil   4872.048mil   1515.748mil   4872.047mil   1515.748mil   4872.048mil  B          0.00 B4B-XH-A(LF)(SN)
+J3         1508060000        1215.748mil   3425.196mil   1215.748mil   3425.197mil   1115.748mil   3425.196mil  B          0.00 1508060000     
+J2         67997-206HLF      1456.692mil   3976.378mil   1456.693mil   3976.378mil   1556.692mil   3926.378mil  B         90.00 Debug6Pin      
+J1         1508060000        1648.818mil   3425.196mil   1648.819mil   3425.197mil   1548.818mil   3425.196mil  B          0.00 1508060000     
+C26        CAPC1005X55N      1161.418mil   4271.653mil   1161.417mil   4271.654mil   1161.418mil   4251.968mil  T         90.00 1µ             
+C25        CAPC3216X180N      2263.78mil   4035.434mil    2263.78mil   4035.433mil    2263.78mil    4094.49mil  T        270.00 approved sub OK
+C24        CAPC3216X180N     2047.245mil   3858.268mil   2047.244mil   3858.268mil    1988.19mil   3858.268mil  T        360.00 approved sub OK
+C23        CAPC3216X180N     2263.782mil   4527.559mil    2263.78mil   4527.559mil   2263.782mil   4586.614mil  T        270.00 approved sub OK
+C22        CAPC3216X180N     2165.354mil   4527.559mil   2165.354mil   4527.559mil   2165.354mil   4468.504mil  T         90.00 approved sub OK
+C21        CAPC3216X180N     1732.283mil   3582.678mil   1732.284mil   3582.677mil   1673.228mil   3582.678mil  B        360.00 approved sub OK
+C20        CAPC3216X180N     1230.315mil   4812.992mil   1230.315mil   4812.992mil    1289.37mil   4812.992mil  T        180.00 approved sub OK
+C19        CAPC3216X180N     2037.402mil   3838.584mil   2037.402mil   3838.583mil   2096.458mil   3838.584mil  B        180.00 approved sub OK
+C18        CAPC3216X180N     1879.922mil   4685.039mil   1879.921mil   4685.039mil   1879.922mil   4625.984mil  B         90.00 approved sub OK
+C17        CAPC3216X180N     1761.811mil   4773.622mil   1761.811mil   4773.622mil   1820.866mil   4773.622mil  T        180.00 approved sub OK
+C16        CAPC1005X55N      1622.999mil       4421mil       1623mil       4421mil   1642.684mil       4421mil  T        180.00 1µ             
+C15        CAPC1005X55N      1624.017mil   4498.032mil   1624.016mil   4498.032mil   1643.702mil   4498.032mil  T        180.00 1µ             
+C14        CAPC1005X55N      1889.763mil   3858.268mil   1889.764mil   3858.268mil   1909.448mil   3858.268mil  T        180.00 1µ             
+C13        CAPC1005X55N      1751.967mil    4566.93mil   1751.968mil   4566.929mil   1732.282mil    4566.93mil  T        360.00 1µ             
+C12        CAPC3216X180N     1861.998mil   4193.998mil       1862mil       4194mil   1802.942mil   4193.998mil  B        360.00 approved sub OK
+C11        CAPC3216X180N     2362.204mil   3661.417mil   2362.205mil   3661.417mil   2362.204mil   3602.362mil  T         90.00 approved sub OK
+C10        CAPC1005X55N      1614.173mil   4566.928mil   1614.173mil   4566.929mil   1633.858mil   4566.928mil  T        180.00 100n           
+C8         CAPC1005X55N      1318.899mil   4222.442mil     1318.9mil   4222.441mil   1338.584mil   4222.442mil  B        180.00 100n           
+C7         CAPC1005X55N      2175.197mil    3986.22mil   2175.197mil    3986.22mil   2194.882mil    3986.22mil  T        180.00 100n           
+C6         CAPC3216X180N         2060mil   4216.999mil       2060mil       4217mil       2060mil   4276.054mil  B        270.00 .22uf          
+C5         CAPC1005X55N      2244.094mil   4183.071mil   2244.095mil   4183.071mil   2244.094mil   4163.386mil  T         90.00 100n           
+C4         CAPC3216X180N     1112.205mil   4163.385mil   1112.205mil   4163.386mil    1171.26mil   4163.384mil  T        180.00 approved sub OK
+C3         CAPC3216X180N      2460.63mil   3661.417mil    2460.63mil   3661.417mil    2460.63mil   3602.362mil  T         90.00 approved sub OK
+C2         CAPMP7343X310N    2322.835mil   3838.582mil   2322.835mil   3838.583mil    2441.93mil   3838.582mil  B        180.00 47µ            
+C1         CAPMP7343X310N    1427.165mil   3690.944mil   1427.165mil   3690.945mil    1546.26mil   3690.944mil  B        180.00 47µ            
+LD3        LED0603           1151.576mil   4389.763mil   1151.575mil   4389.764mil   1151.576mil   4435.038mil  T        270.00 GREEN          
+LD4        LED0603           1151.574mil   4557.087mil   1151.575mil   4557.087mil   1151.574mil   4602.362mil  T        270.00 RED            
+U1         ATSAMD21E15L-MFT   1368.111mil   4399.606mil    1368.11mil   4399.606mil   1275.592mil   4468.504mil  T        360.00 SAMD21E        
+

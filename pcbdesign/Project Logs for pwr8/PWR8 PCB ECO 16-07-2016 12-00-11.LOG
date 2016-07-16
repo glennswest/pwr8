@@ -1,0 +1,109 @@
+Added Component: Designator=J1(45558)
+Added Component: Designator=J2(45558)
+Added Component: Designator=J3(45558)
+Added Component: Designator=J4(45558)
+Added Component: Designator=J5(45558)
+Added Component: Designator=J6(45558)
+Added Component: Designator=J7(45558)
+Added Component: Designator=J8(45558)
+Added Component: Designator=J9(45558)
+Added Component: Designator=J10(46991-1024)
+Added Component: Designator=P1(M3Screw)
+Added Component: Designator=P2(M3Screw)
+Added Component: Designator=P3(M3Screw)
+Added Component: Designator=P4(M3Screw)
+Added Component: Designator=P5(M3Screw)
+Added Component: Designator=P6(M3Screw)
+Added Component: Designator=P7(M3Screw)
+Added Component: Designator=P8(M3Screw)
+Added Pin To Net: NetName=V12P1 Pin=J1-1
+Added Pin To Net: NetName=V12P1 Pin=J1-2
+Added Pin To Net: NetName=V12P1 Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Pin To Net: NetName=GND Pin=J1-6
+Added Pin To Net: NetName=V12P2 Pin=J2-1
+Added Pin To Net: NetName=V12P2 Pin=J2-2
+Added Pin To Net: NetName=V12P2 Pin=J2-3
+Added Pin To Net: NetName=GND Pin=J2-4
+Added Pin To Net: NetName=GND Pin=J2-5
+Added Pin To Net: NetName=GND Pin=J2-6
+Added Pin To Net: NetName=V12P3 Pin=J3-1
+Added Pin To Net: NetName=V12P3 Pin=J3-2
+Added Pin To Net: NetName=V12P3 Pin=J3-3
+Added Pin To Net: NetName=GND Pin=J3-4
+Added Pin To Net: NetName=GND Pin=J3-5
+Added Pin To Net: NetName=GND Pin=J3-6
+Added Pin To Net: NetName=V12P4 Pin=J4-1
+Added Pin To Net: NetName=V12P4 Pin=J4-2
+Added Pin To Net: NetName=V12P4 Pin=J4-3
+Added Pin To Net: NetName=GND Pin=J4-4
+Added Pin To Net: NetName=GND Pin=J4-5
+Added Pin To Net: NetName=GND Pin=J4-6
+Added Pin To Net: NetName=V12P5 Pin=J5-1
+Added Pin To Net: NetName=V12P5 Pin=J5-2
+Added Pin To Net: NetName=V12P5 Pin=J5-3
+Added Pin To Net: NetName=GND Pin=J5-4
+Added Pin To Net: NetName=GND Pin=J5-5
+Added Pin To Net: NetName=GND Pin=J5-6
+Added Pin To Net: NetName=V12P6 Pin=J6-1
+Added Pin To Net: NetName=V12P6 Pin=J6-2
+Added Pin To Net: NetName=V12P6 Pin=J6-3
+Added Pin To Net: NetName=GND Pin=J6-4
+Added Pin To Net: NetName=GND Pin=J6-5
+Added Pin To Net: NetName=GND Pin=J6-6
+Added Pin To Net: NetName=V12P7 Pin=J7-1
+Added Pin To Net: NetName=V12P7 Pin=J7-2
+Added Pin To Net: NetName=V12P7 Pin=J7-3
+Added Pin To Net: NetName=GND Pin=J7-4
+Added Pin To Net: NetName=GND Pin=J7-5
+Added Pin To Net: NetName=GND Pin=J7-6
+Added Pin To Net: NetName=V12P8 Pin=J8-1
+Added Pin To Net: NetName=V12P8 Pin=J8-2
+Added Pin To Net: NetName=V12P8 Pin=J8-3
+Added Pin To Net: NetName=GND Pin=J8-4
+Added Pin To Net: NetName=GND Pin=J8-5
+Added Pin To Net: NetName=GND Pin=J8-6
+Added Pin To Net: NetName=V12 Pin=J9-1
+Added Pin To Net: NetName=V12 Pin=J9-2
+Added Pin To Net: NetName=V12 Pin=J9-3
+Added Pin To Net: NetName=GND Pin=J9-4
+Added Pin To Net: NetName=GND Pin=J9-5
+Added Pin To Net: NetName=GND Pin=J9-6
+Added Pin To Net: NetName=V3V3 Pin=J10-1
+Added Pin To Net: NetName=GND Pin=J10-3
+Added Pin To Net: NetName=GND Pin=J10-5
+Added Pin To Net: NetName=GND Pin=J10-7
+Added Pin To Net: NetName=V5SB Pin=J10-9
+Added Pin To Net: NetName=V12 Pin=J10-10
+Added Pin To Net: NetName=V12 Pin=J10-11
+Added Pin To Net: NetName=V3V3 Pin=J10-12
+Added Pin To Net: NetName=V3V3 Pin=J10-13
+Added Pin To Net: NetName=V12NEG Pin=J10-14
+Added Pin To Net: NetName=GND Pin=J10-15
+Added Pin To Net: NetName=PWRON Pin=J10-16
+Added Pin To Net: NetName=GND Pin=J10-17
+Added Pin To Net: NetName=GND Pin=J10-18
+Added Pin To Net: NetName=GND Pin=J10-19
+Added Pin To Net: NetName=V5 Pin=J10-21
+Added Pin To Net: NetName=V5 Pin=J10-22
+Added Pin To Net: NetName=V5 Pin=J10-23
+Added Pin To Net: NetName=GND Pin=J10-24
+Added Member To Class: ClassName=Sheet0_Top Member=Component J1 0455580003
+Added Member To Class: ClassName=Sheet0_Top Member=Component J2 0455580003
+Added Member To Class: ClassName=Sheet0_Top Member=Component J3 0455580003
+Added Member To Class: ClassName=Sheet0_Top Member=Component J4 0455580003
+Added Member To Class: ClassName=Sheet0_Top Member=Component J5 0455580003
+Added Member To Class: ClassName=Sheet0_Top Member=Component J6 0455580003
+Added Member To Class: ClassName=Sheet0_Top Member=Component J7 0455580003
+Added Member To Class: ClassName=Sheet0_Top Member=Component J8 0455580003
+Added Member To Class: ClassName=Sheet0_Top Member=Component J9 0455580003
+Added Member To Class: ClassName=Sheet0_Top Member=Component J10 ATX Power
+Added Member To Class: ClassName=Sheet0_Top Member=Component P1 CopperScrewM3
+Added Member To Class: ClassName=Sheet0_Top Member=Component P2 CopperScrewM3
+Added Member To Class: ClassName=Sheet0_Top Member=Component P3 CopperScrewM3
+Added Member To Class: ClassName=Sheet0_Top Member=Component P4 CopperScrewM3
+Added Member To Class: ClassName=Sheet0_Top Member=Component P5 CopperScrewM3
+Added Member To Class: ClassName=Sheet0_Top Member=Component P6 CopperScrewM3
+Added Member To Class: ClassName=Sheet0_Top Member=Component P7 CopperScrewM3
+Added Member To Class: ClassName=Sheet0_Top Member=Component P8 CopperScrewM3

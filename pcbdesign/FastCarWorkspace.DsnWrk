@@ -1,0 +1,6 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=..\..\servo\Servo.PrjPcb
+[Project2]
+ProjectPath=FastCar.PrjPcb
