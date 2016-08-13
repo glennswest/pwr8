@@ -1,0 +1,15 @@
+Change Component Designator: OldDesignator=C37 NewDesignator=J11
+Change Component Designator: OldDesignator=C38 NewDesignator=J12
+Change Component Designator: OldDesignator=C39 NewDesignator=J13
+Change Component Designator: OldDesignator=C40 NewDesignator=J14
+Change Component Designator: OldDesignator=C41 NewDesignator=J15
+Added Pin To Net: NetName=GND Pin=J11-Z1
+Added Pin To Net: NetName=GND Pin=J11-Z2
+Added Pin To Net: NetName=GND Pin=J12-Z1
+Added Pin To Net: NetName=GND Pin=J12-Z2
+Added Pin To Net: NetName=GND Pin=J13-Z1
+Added Pin To Net: NetName=GND Pin=J13-Z2
+Added Pin To Net: NetName=GND Pin=J14-Z1
+Added Pin To Net: NetName=GND Pin=J14-Z2
+Added Pin To Net: NetName=GND Pin=J15-Z1
+Added Pin To Net: NetName=GND Pin=J15-Z2

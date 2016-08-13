@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [pwr8.PrjPcb]
+   Generated File[PWR8.TXT]
+   Generated File[PWR8.LDP]
+   Generated File[PWR8.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 13:28:05 On 13/08/2016
